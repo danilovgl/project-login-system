@@ -1,6 +1,6 @@
 # project-login-system
 
-<img src="./1.png" alt="print">
+<img src="/1.png" alt="print">
 
 
 Link do Projeto: <a href="https://polite-pegasus-e0eb61.netlify.app/">
